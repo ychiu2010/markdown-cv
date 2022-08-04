@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Arden Chiu' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Arden Chiu
+Researcher, Scientist, KKLab Director.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
