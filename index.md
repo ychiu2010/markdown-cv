@@ -27,18 +27,20 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Aug 2004 - Feb 2009`
+**North Carolina State University**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Ph.D in Electrical and Computer Engineering
 
-- Sizar
+`Sep 1998 - Jun 2000`
+**National Tsing Hua University**
 
-`1667 - death`
-__Trinity College, Cambridge__
+-M.S in Electrical Engineering
 
-- Fellow
+`Sep 1993 - Feb 1998`
+**National Chiao Tung University**
+
+- B.S in Communication Engineering
 
 
 
