@@ -35,7 +35,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 `Sep 1998 - Jun 2000`
 **National Tsing Hua University**
 
--M.S in Electrical Engineering
+- M.S in Electrical Engineering
 
 `Sep 1993 - Feb 1998`
 **National Chiao Tung University**
